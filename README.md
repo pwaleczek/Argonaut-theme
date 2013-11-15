@@ -1,4 +1,10 @@
-Argonaut-theme
+Argonaut Color Scheme
 ==============
 
-Argonaut color scheme
+Color Scheme to use with:
+ - OS X Terminal
+ - iTerm2
+ - Sublime Text 2/3
+ - Apple Color Picker
+
+TODO: Update this with details!
