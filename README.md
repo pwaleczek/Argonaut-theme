@@ -19,9 +19,10 @@ Modified version of the [iTerm-argonaut](https://github.com/effkay/iTerm-argonau
 
 ## Midnight Commander
 > Install
-Copy 'asterisk.ini' to `~/.local/share/mc/skins` or `/usr/[local]/share/mc/skins`
-Edit the `~/.config/mc/ini
-- set the `skin` property of `Midnight-Commander` section to `asterisk`
+- Copy 'asterisk.ini' to `~/.local/share/mc/skins` or `/usr/[local]/share/mc/skins`
+- Edit the `~/.config/mc/ini
+- Set the `skin` property of `Midnight-Commander` section to `asterisk`
+
 ![Midnight Commander](midnight-commander/preview.png)
 
 ## Sublime Text 2/3
