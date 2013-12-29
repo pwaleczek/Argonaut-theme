@@ -15,7 +15,7 @@ Color Scheme to use with:
 
 ## iTerm2
 Modified version of the [iTerm-argonaut](https://github.com/effkay/iTerm-argonaut) theme from [Felipe Kaufmann](https://github.com/effkay)
-![iTerm2](iterm2/preview.png)
+![iTerm2](iterm-2/preview.png)
 
 ## Midnight Commander
 > Install
