@@ -8,6 +8,9 @@ Color Scheme to use with:
  - [Sublime Text 2/3](#sublime-text-23)
  - [Apple Color Picker](#apple-color-picker)
 
+
+[![pwaleczek @ gittip](http://img.shields.io/gittip/pwaleczek.svg)](https://www.gittip.com/pwaleczek/)
+
 ---
 
 ## OS X Terminal
