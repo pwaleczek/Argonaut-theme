@@ -1,0 +1,24 @@
+[options]
+font = Ubuntu Mono 13
+
+[colors]
+background= #135515C822FB
+foreground= #FFFFFAFFF499
+foreground_bold= #9E9B9C2A9A3A
+cursor = #FFFFFAFFF499
+color0= #22C022C022C0
+color1= #FFFF00000F12
+color2= #8C9DE1C30A8E
+color3= #FFFFB9FF0000
+color4= #00008E07F911
+color5= #6CF6435DA687
+color6= #0000D882EC2E
+color7= #FFFFFFFFFFFF
+color8= #445744574457
+color9= #FFFF279A3FCD
+color10= #ABD7E1C35B40
+color11= #FFFFD2A34206
+color12= #002292C3FFFF
+color13= #9AE35FC9EC4D
+color14= #6779FFFFF0E1
+color15= #FFFFFFFFFFFF
