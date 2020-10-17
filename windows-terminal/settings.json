@@ -1,0 +1,48 @@
+{
+    // 1. Add Argonaut to schemes
+    "schemes": [
+        // ...
+        {
+            "name": "Argonaut",
+            "cursorColor": "#FF0018",
+            "selectionBackground": "#002A3B",
+            "background": "#131623",
+            "foreground": "#FFFAF4",
+            // "black": "#232323",
+            "black": "#131623",
+            "blue": "#008DF8",
+            "cyan": "#00D8EB",
+            "green": "#8CE10B",
+            "purple": "#6D43A6",
+            "red": "#FF000F",
+            "white": "#FFFFFF",
+            "yellow": "#FFB900",
+            "brightBlack": "#444444",
+            "brightBlue": "#0092FF",
+            "brightCyan": "#67FFF0",
+            "brightGreen": "#ABE15B",
+            "brightPurple": "#9A5FEB",
+            "brightRed": "#FF2740",
+            "brightWhite": "#FFFFFF",
+            "brightYellow": "#FFD242"
+        }
+        // ...
+    ],
+
+    // 2. Use the Argonaut color scheme in the desired profiles
+    "profiles": {
+        // ...
+        "list": [
+            // ...
+            {
+                // ...
+                "colorScheme": "Argonaut"
+                // ...
+            },
+            // ...
+       ]
+       // ...
+   }
+
+   // ...
+}
